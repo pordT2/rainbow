@@ -1,0 +1,42 @@
+/**
+ * @name pinkie
+ * @author tams
+ * @version 1
+ * @description A pink theme
+ * @source https://github.com/pordT2/theme
+ */
+
+ @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+ @import url('https://raw.githack.com/pordT2/theme/main/pinkie.theme.css');
+ 
+ :root{
+     --background: url('https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1');
+     --activetext-colour: rgb(255, 0, 234);
+ 
+     --primary1-colour: red;
+     --primary2-colour: rgba(255,0,0,0.5);
+     --primary3-colour: rgba(100,0,0,0.6);
+  
+     --secondary1-colour: rgba(170, 53, 53, 0.3);
+     --secondary2-colour: rgba(211, 35, 35, 0.5);
+     --secondary3-colour: rgba(255, 0, 0, 0.5);
+  
+     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  
+   
+ /*
+ Theme Owned and Made by Tams#4339
+   
+ Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+ 
+ The 2 items above are not owned by me, They go to there respected owners 
+ 
+ I have used GGO Kiritov by VaporousCreeper#9514 as a template 
+ 
+ Code based off of: https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+ 
